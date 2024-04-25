@@ -1,2 +1,5 @@
 # exclude data files
 *.csv
+
+# exclude .DS_store
+.DS_store
