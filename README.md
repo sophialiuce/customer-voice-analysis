@@ -1,4 +1,4 @@
-# NLP applications for Voice of Consumer
+# NLP applications for Customer Voice Analysis
 
 All notebooks use pytorch+fast.ai libraries. Here you can find 4 kinds of notebooks:
 
